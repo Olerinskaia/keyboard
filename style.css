@@ -12,7 +12,7 @@ body {
 .keyboard {
   max-width: 950px;
   width: 100%;
-  background: #121212;
+  background: #1b1b1b;
   display: flex;
   flex-wrap: wrap;
   border: 1px solid black;
